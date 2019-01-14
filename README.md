@@ -1,5 +1,5 @@
 # firmware-esp8266
-buat flash esp8266 12
+buat upload firmware esp8266 12
 
 1. buka flasher nya
 2. masuk ke tab advance
